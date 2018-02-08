@@ -1,0 +1,109 @@
+body {
+  background-color: #2980B9; }
+
+.nav a {
+  color: white;
+  margin-top: 40px; }
+
+.nav a:hover {
+  color: black; }
+
+#dan-logo img {
+  height: 70px;
+  margin-left: 20px; }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #2980B9; }
+
+.jumbotron {
+  background-color: #19458c; }
+
+.jumbotron h2, p {
+  color: white; }
+
+#port-title {
+  color: white;
+  text-align: center;
+  font-size: 3em; }
+
+.port-desc {
+  color: black; }
+
+.thumbnail {
+  height: 400px; }
+
+@media only screen and (min-width: 1350px) {
+  .thumbnail {
+    height: 500px; } }
+@media only screen and (max-width: 991px) {
+  .thumbnail {
+    height: 700px; } }
+@media only screen and (max-width: 700px) {
+  .thumbnail {
+    height: 500px; } }
+@media only screen and (max-width: 450px) {
+  .thumbnail {
+    height: 400px; } }
+.skill-list li {
+  color: white;
+  list-style: square inside; }
+
+.dan-pic img {
+  height: 300px; }
+
+.about-back-box {
+  background-color: #19458c;
+  border-radius: 10px;
+  margin: 0px 10px 10px 0px; }
+
+.about-back-box h2 {
+  text-decoration: underline;
+  color: white; }
+
+.about-back-box p {
+  color: white; }
+
+.about-back-box li {
+  color: white;
+  font-size: 1.5em; }
+
+.dan-pic img {
+  margin-left: 20px; }
+
+#inner-box-about {
+  padding: 20px; }
+
+#map {
+  height: 60%; }
+
+.map-style h1 {
+  color: white;
+  margin-bottom: 20px; }
+
+.contact-back {
+  background-color: white;
+  border-radius: 10px;
+  margin: 80px 20px 0px 20px; }
+
+.contact-back a p {
+  color: blue;
+  font-size: 1.5em; }
+
+.fa-github-square {
+  font-size: 3em;
+  color: white;
+  margin-right: 15px; }
+
+.fa-linkedin {
+  font-size: 3em;
+  color: white;
+  margin-right: 15px; }
+
+.fa-envelope-square {
+  font-size: 3em;
+  color: white;
+  margin-right: 15px; }
